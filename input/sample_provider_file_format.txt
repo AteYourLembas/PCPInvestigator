@@ -1,0 +1,17 @@
+Provider ID: 123456
+SAMPLE HEALTHSOURCE
+EXAMPLE, INC
+Smith, Sam, MD
+Internal Medicine
+123 West Washington Blvd.
+Los Angeles, CA 90066
+(310) 123-4567 
+Provider ID: 869850
+CLINICA MEDICA
+GENERAL/HISPANIC
+Moreno, Maria, MD
+Family Practice
+123 West Washington Blvd.
+Suite 100
+Los Angeles, CA 90066
+(310) 123-4568 
