@@ -56,6 +56,7 @@ If you want to be able to calculate distance between your zip and the health car
 
 - Download the mongoDB zipcodes data set from https://docs.mongodb.org/manual/tutorial/aggregation-zip-code-data-set/ (or search for "mongodb zip code database")
 - From a command line, run
+
 > mongoimport --db test --collection zips --file /your/download/location/zips.json
 
 
