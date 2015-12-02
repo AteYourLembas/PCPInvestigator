@@ -41,9 +41,13 @@ DEPENDENCIES
  mongodb, Beautiful Soup, lxml
 
 > brew install mongodb
+
 > pip install beautifulsoup4
+
 > pip install lxml
-# (may need to use sudo)
+
+(Installation may require sudo. Consider a virtual environment for maximum peace of mind.)
+
 
 
  OPTIONAL
